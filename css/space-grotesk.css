@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Space Grotesk'), url('https://fonts.cdnfonts.com/s/18081/SpaceGrotesk-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Space Grotesk'), url('https://fonts.cdnfonts.com/s/18081/SpaceGrotesk-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Space Grotesk'), url('https://fonts.cdnfonts.com/s/18081/SpaceGrotesk-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Space Grotesk'), url('https://fonts.cdnfonts.com/s/18081/SpaceGrotesk-SemiBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Space Grotesk'), url('https://fonts.cdnfonts.com/s/18081/SpaceGrotesk-Bold.woff') format('woff');
+}
+
+

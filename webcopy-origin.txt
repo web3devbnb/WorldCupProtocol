@@ -1,0 +1,1100 @@
+Uri: http://docs.andronix.app/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-22.htm
+Content Type: text/html
+
+Uri: https://4168224926-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5XcureARhhC2fPAA3Ju7%2Ficon%2FP0uqsg5aSzR5Y8gcUmnX%2FLogotranfer.png?alt=media&token=370be5d9-cf05-4064-bdf0-f0a710fbc9b6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces5XcureARhhC2fPAA3Ju7iconP0uqsg5aSzR5Y8gcUmnXLogotranfer.png
+Content Type: image/png
+
+Uri: https://abs.twimg.com/errors/logo46x38.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\errors\logo46x38.png
+Content Type: image/png
+
+Uri: https://abs.twimg.com/errors/logo46x38@2x.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\errors\logo46x38@2x.png
+Content Type: image/png
+
+Uri: https://aep-sdks.gitbook.io/docs/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\docs\index.htm
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\ajax\libs\jquery\1.10.2\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\ajax\libs\jquery\1.11.2\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://app.diamondlock.finance/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-2.htm
+Content Type: text/html
+
+Uri: https://app.diamondlock.finance/assets/css/bootstrap-theme.min.css
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\css\bootstrap-theme.min.css
+Content Type: text/css
+
+Uri: https://app.diamondlock.finance/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://app.diamondlock.finance/assets/css/fontAwesome.css
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\css\fontAwesome.css
+Content Type: text/css
+
+Uri: https://app.diamondlock.finance/assets/css/light-box.css
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\css\light-box.css
+Content Type: text/css
+
+Uri: https://app.diamondlock.finance/assets/css/templatemo-main.css
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\css\templatemo-main.css
+Content Type: text/css
+
+Uri: https://app.diamondlock.finance/assets/images/icon.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\images\icon.png
+Content Type: image/png
+
+Uri: https://app.diamondlock.finance/assets/js/datepicker.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\js\datepicker.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/assets/js/main.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/assets/js/plugins.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\js\vendor\modernizr-2.8.3-respond-1.4.2.min.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/assets/js/web3.min.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\assets\js\web3.min.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/main.c60bd74327d0c540.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\main.c60bd74327d0c540.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/polyfills.a29639a3501cb8fe.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\polyfills.a29639a3501cb8fe.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/runtime.20539a197c7b0fa1.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\runtime.20539a197c7b0fa1.js
+Content Type: application/javascript
+
+Uri: https://app.diamondlock.finance/styles.8daf4cc1ed664ae0.css
+File Name: C:\Downloaded Web Sites\diamondlock.finance\styles.8daf4cc1ed664ae0.css
+Content Type: text/css
+
+Uri: https://app.gitbook.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-10.htm
+Content Type: text/html
+
+Uri: https://app.gitbook.com/public/app/public-TGRGLWNN.min.js?v=10.9.110-078901d4c3c38158de5add39c846dd27b1cc0417-2477081758
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\app\public-TGRGLWNN.min.js
+Content Type: application/javascript
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-Bold.woff2?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-Bold.woff?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-Bold.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-BoldItalic.woff2?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-BoldItalic.woff?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-ExtraBold.woff2?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-ExtraBold.woff?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-ExtraBoldItalic.woff2?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-ExtraBoldItalic.woff?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-Italic.woff2?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-Italic.woff?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-Italic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-Medium.woff2?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-Medium.woff?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-Medium.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-MediumItalic.woff2?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-MediumItalic.woff?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-Regular.woff2?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Inter/Inter-Regular.woff?v=3.19
+File Name: C:\Downloaded Web Sites\diamondlock.finance\public\fonts\Inter\Inter-Regular.woff
+Content Type: font/woff
+
+Uri: https://assets-global.website-files.com/600ead1452cf056d0e52dbed/6246d2036225eac4d74cff27_Favicon_Blue.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\600ead1452cf056d0e52dbed\6246d2036225eac4d74cff27_Favicon_Blue.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/600ead1452cf056d0e52dbed/6246d2557082dee5d70cc49f_Webclip_Blue.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\600ead1452cf056d0e52dbed\6246d2557082dee5d70cc49f_Webclip_Blue.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/600ead1452cf056d0e52dbed/css/gitbook-marketing.364ae3e22.min.css
+File Name: C:\Downloaded Web Sites\diamondlock.finance\600ead1452cf056d0e52dbed\css\gitbook-marketing.364ae3e22.min.css
+Content Type: text/css
+
+Uri: https://blog.gitbook.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-9.htm
+Content Type: text/html
+
+Uri: https://blog.gitbook.com/company/gitbook-stands-with-ukraine
+File Name: C:\Downloaded Web Sites\diamondlock.finance\company\gitbook-stands-with-ukraine.html
+Content Type: text/html
+
+Uri: https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+File Name: C:\Downloaded Web Sites\diamondlock.finance\en\help\troubleshooting\how-twitter-ads-work.html
+Content Type: text/html
+
+Uri: https://cdn.iframe.ly/embed.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\embed.js
+Content Type: application/javascript
+
+Uri: https://cdn.polyfill.io/v2/polyfill.js?features=Intl.~locale.en
+File Name: C:\Downloaded Web Sites\diamondlock.finance\v2\polyfill.js
+Content Type: text/javascript
+
+Uri: https://cdn5.telegram-cdn.org/file/H5HRbt_1B3sRxjRtDC6Q99J4MpnhVQRXW2-GA-c9aLnfNpJuBm5LmLXPm0RYXXFlYGsFOHRII9RdjsiOoLGzGn_Mn7vWhpndXQdQZPUsD4CRVMttXeu7h09eEraf2mZ78n3sfanzLuEFkIyIlwRxm7Ro6bkpsObzIMmxzcOOEV9W4nCgQzNxRYxhUYbrBAhLz59l0OCRAOIF-CmiP5onNw60B2sDTnXGFCIlEp1CWMLjKnka6AYp_R-4JCtg7jhTeR4fJy4PmOtgCVmTjlA9s07TWOUJka_yTz5H6uOsldtqA-wWA2Dy83Q-XQIXcKYNyT5t9UNi74pGyRp3aU8eOg.jpg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\file\H5HRbt_1B3sRxjRtDC6Q99J4MpnhVQRXW2-GA-c9aLnfNpJuBm5LmLXPm0RYXXFlYGsFOHRII9RdjsiOoLGzGn_Mn7vWhpndXQdQZPUsD4CRVMttXeu7h09eEraf2mZ78n3sfanzLuEFkIyIlwRxm7Ro6bkpsObzIMmxzcOOEV9W4nCgQzNxRYxhUYbrBAhLz59l0OCRAOIF-.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondlock.finance/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index.htm
+Content Type: text/html
+
+Uri: https://diamondlock.finance/img/Automatic LP Icon.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\Automatic LP Icon.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/img/Background.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\Background.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/img/Diamond Risk Insurance Bank Icon.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\Diamond Risk Insurance Bank Icon.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/img/Diamond Risk Insurance Bank.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\Diamond Risk Insurance Bank.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/img/DMS Token Icon.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\DMS Token Icon.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/img/Header_Logo.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\Header_Logo.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/img/Logo Big.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\Logo Big.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/img/wing.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\wing.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/index.html
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index.html
+Content Type: text/html
+
+Uri: https://diamondlock.finance/logo.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\logo.png
+Content Type: image/gif
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor-pro/assets/css/frontend.minccfb.css?ver=3.4.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor-pro\assets\css\frontend.minccfb.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor-pro/assets/js/frontend.minccfb.js?ver=3.4.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor-pro\assets\js\frontend.minccfb.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.minccfb.js?ver=3.4.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.minccfb.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.minccfb.js?ver=3.4.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.minccfb.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min3f90.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor-pro\assets\lib\lottie\lottie.min3f90.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.minf269.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.minccfb.js?ver=3.4.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.minccfb.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/css/frontend-legacy.min9bf7.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\css\frontend-legacy.min9bf7.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/css/frontend.min9bf7.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\css\frontend.min9bf7.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/js/frontend-modules.min9bf7.js?ver=3.4.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\js\frontend-modules.min9bf7.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/js/frontend.min9bf7.js?ver=3.4.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\js\frontend.min9bf7.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/js/preloaded-modules.min9bf7.js?ver=3.4.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\js\preloaded-modules.min9bf7.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/js/webpack.runtime.min9bf7.js?ver=3.4.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\js\webpack.runtime.min9bf7.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/animations/animations.min9bf7.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\animations\animations.min9bf7.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\dialog\dialog.mina288.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min05c8.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min05c8.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/eicons/fonts/eiconsc387.eot?5.13.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\eicons\fonts\eiconsc387.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/eicons/fonts/eiconsc387.svg?5.13.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\eicons\fonts\eiconsc387.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/eicons/fonts/eiconsc387.ttf?5.13.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\eicons\fonts\eiconsc387.ttf
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/eicons/fonts/eiconsc387.woff2?5.13.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\eicons\fonts\eiconsc387.woff2
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/eicons/fonts/eiconsc387.woff?5.13.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\eicons\fonts\eiconsc387.woff
+Content Type: application/font-woff
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min1845.css?ver=4.9.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min1845.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min52d5.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min1849.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min52d5.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min52d5.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min1845.css?ver=4.9.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min1845.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont3e6e.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont3e6e.ttf
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont3e6e.woff2
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont3e6e.woff
+Content Type: application/font-woff
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfontd41d.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min1845.js?ver=4.9.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min1845.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400d41d.eot?
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400d41d.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400d41d.eot?
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400d41d.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900d41d.eot?
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900d41d.eot
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/share-link/share-link.min9bf7.js?ver=3.4.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\share-link\share-link.min9bf7.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\swiper\swiper.min48f5.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min05da.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script8d5a.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script8d5a.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons8d5a.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons8d5a.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit97ac.woff?y24e1e
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit97ac.woff
+Content Type: application/font-woff
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive8d5a.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive8d5a.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles8d5a.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles8d5a.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle8d5a.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle8d5a.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor8d5a.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor8d5a.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts8d5a.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts8d5a.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\essential-addons-for-elementor-lite\assets\admin\images\templately\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: application/font-woff
+
+Uri: https://diamondlock.finance/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min9b70.css?ver=3.3.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min9b70.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min9b70.js?ver=3.3.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.min9b70.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/plugins/selection-lite/css/sticky-effect.minf24c.css?ver=1.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\selection-lite\css\sticky-effect.minf24c.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/plugins/selection-lite/js/sticky-effect.minf24c.js?ver=1.6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\plugins\selection-lite\js\sticky-effect.minf24c.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/themes/astra/assets/css/minified/frontend.minf6c4.css?ver=3.7.4
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\themes\astra\assets\css\minified\frontend.minf6c4.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: application/font-woff
+
+Uri: https://diamondlock.finance/wp-content/themes/astra/assets/js/minified/frontend.minf6c4.js?ver=3.7.4
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\themes\astra\assets\js\minified\frontend.minf6c4.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/uploads/2021/10/holders.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\uploads\2021\10\holders.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/wp-content/uploads/2021/12/back-mobile-min.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\uploads\2021\12\back-mobile-min.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/wp-content/uploads/2021/12/back3-min.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\uploads\2021\12\back3-min.png
+Content Type: image/png
+
+Uri: https://diamondlock.finance/wp-content/uploads/2021/12/bg-desk.svg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\uploads\2021\12\bg-desk.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/uploads/2021/12/lp-3.svg
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\uploads\2021\12\lp-3.svg
+Content Type: image/svg+xml
+
+Uri: https://diamondlock.finance/wp-content/uploads/essential-addons-elementor/cb70d11b8.minc906.js?ver=1648484771
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\uploads\essential-addons-elementor\cb70d11b8.minc906.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-content/uploads/happyaddons/css/ha-172746.css?ver=3.3.0.1643639610
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-content\uploads\happyaddons\css\ha-172746.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-includes/css/dist/block-library/style.min6dcf.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-includes\css\dist\block-library\style.min6dcf.css
+Content Type: text/css
+
+Uri: https://diamondlock.finance/wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-includes\js\jquery\jquery-migrate.mind617.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-includes\js\jquery\jquery.minaf6c.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-includes\js\jquery\ui\core.min0028.js
+Content Type: application/javascript
+
+Uri: https://diamondlock.finance/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://diamondlock.finance/wp-json/index.html
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-json\index.html
+Content Type: text/html
+
+Uri: https://diamondlock.finance/wp-json/oembed/1.0/embed1ecc.json?url=https:%2F%2F%2F
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-json\oembed\1.0\embed1ecc.json
+Content Type: application/json
+
+Uri: https://diamondlock.finance/wp-json/oembed/1.0/embedd3b4?url=https:%2F%2F%2F&format=xml
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-json\oembed\1.0\embedd3b4
+Content Type: binary/octet-stream
+
+Uri: https://diamondlock.finance/wp-json/wp/v2/pages/17.json
+File Name: C:\Downloaded Web Sites\diamondlock.finance\wp-json\wp\v2\pages\17.json
+Content Type: application/json
+
+Uri: https://docs.airdev.co/canvas/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\canvas\index.htm
+Content Type: text/html
+
+Uri: https://docs.automox.com/help
+File Name: C:\Downloaded Web Sites\diamondlock.finance\help.html
+Content Type: text/html
+
+Uri: https://docs.bnbchain.org/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-6.htm
+Content Type: text/html
+
+Uri: https://docs.botghost.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-21.htm
+Content Type: text/html
+
+Uri: https://docs.conduktor.io/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-12.htm
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-1.htm
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/anti-whale-anti-dump-mechanism
+File Name: C:\Downloaded Web Sites\diamondlock.finance\anti-whale-anti-dump-mechanism.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/auto-liquidity-engine-dal
+File Name: C:\Downloaded Web Sites\diamondlock.finance\auto-liquidity-engine-dal.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/automatic-payment-method
+File Name: C:\Downloaded Web Sites\diamondlock.finance\automatic-payment-method.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/connect-with-us/social-networks
+File Name: C:\Downloaded Web Sites\diamondlock.finance\connect-with-us\social-networks.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/diamond-risk-insurance-bank-dib
+File Name: C:\Downloaded Web Sites\diamondlock.finance\diamond-risk-insurance-bank-dib.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/guides/f.a.q
+File Name: C:\Downloaded Web Sites\diamondlock.finance\guides\f.a.q.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/guides/how-to-buy-usddml
+File Name: C:\Downloaded Web Sites\diamondlock.finance\guides\how-to-buy-usddml.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/how-diamond-auto-staking-works
+File Name: C:\Downloaded Web Sites\diamondlock.finance\how-diamond-auto-staking-works.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/roadmap
+File Name: C:\Downloaded Web Sites\diamondlock.finance\roadmap.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/special-features
+File Name: C:\Downloaded Web Sites\diamondlock.finance\special-features.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/special-features/diamond-mining-app
+File Name: C:\Downloaded Web Sites\diamondlock.finance\special-features\diamond-mining-app.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/special-features/lucky-spin
+File Name: C:\Downloaded Web Sites\diamondlock.finance\special-features\lucky-spin.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/special-features/special-nft-system
+File Name: C:\Downloaded Web Sites\diamondlock.finance\special-features\special-nft-system.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/usddml-token-information
+File Name: C:\Downloaded Web Sites\diamondlock.finance\usddml-token-information.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/usddml-token-information/usddml-buy-and-sell-fees
+File Name: C:\Downloaded Web Sites\diamondlock.finance\usddml-token-information\usddml-buy-and-sell-fees.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/what-is-the-apy
+File Name: C:\Downloaded Web Sites\diamondlock.finance\what-is-the-apy.html
+Content Type: text/html
+
+Uri: https://docs.diamondlock.finance/what-is-the-apy/how-to-calculate-apy
+File Name: C:\Downloaded Web Sites\diamondlock.finance\what-is-the-apy\how-to-calculate-apy.html
+Content Type: text/html
+
+Uri: https://docs.fluentbit.io/manual/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\manual\index.htm
+Content Type: text/html
+
+Uri: https://docs.forestadmin.com/documentation/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\documentation\index.htm
+Content Type: text/html
+
+Uri: https://docs.gitbook.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-8.htm
+Content Type: text/html
+
+Uri: https://docs.glassnode.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-25.htm
+Content Type: text/html
+
+Uri: https://docs.integromat.com/apps/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\apps\index.htm
+Content Type: text/html
+
+Uri: https://docs.keeper.io/home/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\home\index.htm
+Content Type: text/html
+
+Uri: https://docs.linuxfoundation.org/lfx/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\lfx\index.htm
+Content Type: text/html
+
+Uri: https://docs.nosto.com/techdocs/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\techdocs\index.htm
+Content Type: text/html
+
+Uri: https://docs.oasis.dev/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-16.htm
+Content Type: text/html
+
+Uri: https://docs.panther.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-14.htm
+Content Type: text/html
+
+Uri: https://docs.powershelluniversal.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-15.htm
+Content Type: text/html
+
+Uri: https://docs.wandb.ai/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-18.htm
+Content Type: text/html
+
+Uri: https://fall2019.fullstackdeeplearning.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-17.htm
+Content Type: text/html
+
+Uri: https://filebrowser.org/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-19.htm
+Content Type: text/html
+
+Uri: https://fonts.cdnfonts.com/css/space-grotesk
+File Name: C:\Downloaded Web Sites\diamondlock.finance\css\space-grotesk.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\diamondlock.finance\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700
+File Name: C:\Downloaded Web Sites\diamondlock.finance\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Space+Grotesk:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\css.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr5KPxWnVaFrNlJz.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKU-Go6G5tXcr5KPxWnVaFrNlJz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr5KPxWoVaFrNlJzIu4.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKU-Go6G5tXcr5KPxWoVaFrNlJzIu4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr5KPxWpVaFrNlJzIu4.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKU-Go6G5tXcr5KPxWpVaFrNlJzIu4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr5KPxWzVaFrNlJzIu4.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKU-Go6G5tXcr5KPxWzVaFrNlJzIu4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKU-Go6G5tXcr5KPyWj.woff
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKU-Go6G5tXcr5KPyWj.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcoaR.woff
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKZ-Go6G5tXcoaR.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcraaGwCKd6xBDFs.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKZ-Go6G5tXcraaGwCKd6xBDFs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcraBGwCKd6xBDFs.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKZ-Go6G5tXcraBGwCKd6xBDFs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcraVGwCKd6xB.woff2
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\kanit\v12\nKKZ-Go6G5tXcraVGwCKd6xB.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v12/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VnskPMU.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\spacegrotesk\v12\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VnskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v12/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVnskPMU.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\spacegrotesk\v12\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVnskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v12/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UXskPMU.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\spacegrotesk\v12\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UXskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v12/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUXskPMU.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\spacegrotesk\v12\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUXskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v12/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMU.ttf
+File Name: C:\Downloaded Web Sites\diamondlock.finance\s\spacegrotesk\v12\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://help.adalo.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-20.htm
+Content Type: text/html
+
+Uri: https://help.twitter.com/en/using-twitter/twitter-supported-browsers
+File Name: C:\Downloaded Web Sites\diamondlock.finance\en\using-twitter\twitter-supported-browsers.html
+Content Type: text/html
+
+Uri: https://legal.twitter.com/imprint.html
+File Name: C:\Downloaded Web Sites\diamondlock.finance\imprint.html
+Content Type: text/html
+
+Uri: https://mongock.io/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-24.htm
+Content Type: text/html
+
+Uri: https://nodes.pancakeswap.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-5.htm
+Content Type: 
+
+Uri: https://pancakeswap.finance/favicon.ico
+File Name: C:\Downloaded Web Sites\diamondlock.finance\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://pancakeswap.finance/logo.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\logo.png
+Content Type: image/png
+
+Uri: https://pancakeswap.finance/manifest.json
+File Name: C:\Downloaded Web Sites\diamondlock.finance\manifest.json
+Content Type: application/json
+
+Uri: https://pancakeswap.finance/swap?outputCurrency=0xb43B336cEa33A298594f07Ee515669b79c2bB14e
+File Name: C:\Downloaded Web Sites\diamondlock.finance\swap
+Content Type: text/html
+
+Uri: https://pancakeswap.finance/_next/static/9ubRgpHHEsPkIRbg3KMzR/_buildManifest.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\9ubRgpHHEsPkIRbg3KMzR\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/9ubRgpHHEsPkIRbg3KMzR/_middlewareManifest.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\9ubRgpHHEsPkIRbg3KMzR\_middlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/9ubRgpHHEsPkIRbg3KMzR/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\9ubRgpHHEsPkIRbg3KMzR\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/1314-0ea8f338c0a7c9d2.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\1314-0ea8f338c0a7c9d2.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/2077-930a204c877fd795.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\2077-930a204c877fd795.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/2239-65411ca3ad555616.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\2239-65411ca3ad555616.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/2264-020d3d52010e31a2.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\2264-020d3d52010e31a2.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/4999-55d05a92a01eec51.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\4999-55d05a92a01eec51.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/5855-e9ac0069e3575fa5.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\5855-e9ac0069e3575fa5.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/7826-eefbea7d0db77d8b.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\7826-eefbea7d0db77d8b.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/framework-560765ab0625ba27.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\framework-560765ab0625ba27.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/main-8437edf66de0477f.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\main-8437edf66de0477f.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/pages/swap-2e83e1d83ff839f0.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\pages\swap-2e83e1d83ff839f0.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/pages/_app-2af2746e1da659a6.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\pages\_app-2af2746e1da659a6.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\polyfills-5cd94c89d3acac5f.js
+Content Type: application/javascript
+
+Uri: https://pancakeswap.finance/_next/static/chunks/webpack-ebee15167a408f87.js
+File Name: C:\Downloaded Web Sites\diamondlock.finance\_next\static\chunks\webpack-ebee15167a408f87.js
+Content Type: application/javascript
+
+Uri: https://support.mailmeteor.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-13.htm
+Content Type: text/html
+
+Uri: https://t.me/DiamondLockNews
+File Name: C:\Downloaded Web Sites\diamondlock.finance\DiamondLockNews.html
+Content Type: text/html
+
+Uri: https://t.me/DiamondLockProtocol
+File Name: C:\Downloaded Web Sites\diamondlock.finance\DiamondLockProtocol.html
+Content Type: text/html
+
+Uri: https://t.me/Ranbir_1986
+File Name: C:\Downloaded Web Sites\diamondlock.finance\Ranbir_1986.html
+Content Type: text/html
+
+Uri: https://telegram.org/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-4.htm
+Content Type: text/html
+
+Uri: https://telegram.org/apps
+File Name: C:\Downloaded Web Sites\diamondlock.finance\apps.html
+Content Type: text/html
+
+Uri: https://telegram.org/css/bootstrap.min.css?3
+File Name: C:\Downloaded Web Sites\diamondlock.finance\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://telegram.org/css/telegram.css?230
+File Name: C:\Downloaded Web Sites\diamondlock.finance\css\telegram.css
+Content Type: text/css
+
+Uri: https://telegram.org/img/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/favicon.ico
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://telegram.org/img/website_icon.svg?4
+File Name: C:\Downloaded Web Sites\diamondlock.finance\img\website_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/js/tgwallpaper.min.js?3
+File Name: C:\Downloaded Web Sites\diamondlock.finance\js\tgwallpaper.min.js
+Content Type: application/javascript
+
+Uri: https://twitter.com/DiamondLockBSC
+File Name: C:\Downloaded Web Sites\diamondlock.finance\DiamondLockBSC.html
+Content Type: text/html
+
+Uri: https://twitter.com/en/privacy
+File Name: C:\Downloaded Web Sites\diamondlock.finance\en\privacy.html
+Content Type: text/html
+
+Uri: https://twitter.com/en/tos
+File Name: C:\Downloaded Web Sites\diamondlock.finance\en\tos.html
+Content Type: text/html
+
+Uri: https://windows.help.formit.autodesk.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-26.htm
+Content Type: text/html
+
+Uri: https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157
+File Name: C:\Downloaded Web Sites\diamondlock.finance\en\blog\ecosystem\how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157.html
+Content Type: text/html
+
+Uri: https://www.electronforge.io/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-11.htm
+Content Type: text/html
+
+Uri: https://www.gitbook.com/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-7.htm
+Content Type: text/html
+
+Uri: https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=5XcureARhhC2fPAA3Ju7
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-3.htm
+Content Type: text/html
+
+Uri: https://www.gitbook.com/about
+File Name: C:\Downloaded Web Sites\diamondlock.finance\about.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/cdn-cgi/image/width=24,height=24,fit=contain,dpr=1,format=auto/https:%2F%2F4168224926-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F5XcureARhhC2fPAA3Ju7%252Ficon%252FP0uqsg5aSzR5Y8gcUmnX%252FLogotranfer.png%3Falt%3Dmedia%26token%3D370be5d9-cf05-4064-bdf0-f0a710fbc9b6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\cdn-cgi\image\width=24,height=24,fit=contain,dpr=1,format=auto\https4168224926-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F5XcureARhhC2fPAA3Ju7%2Ficon%2FP0uqsg5aSzR5Y8gcUmnX%2FLogotranfer.pngal.png
+Content Type: image/png
+
+Uri: https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1,format=auto/https:%2F%2F4168224926-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F5XcureARhhC2fPAA3Ju7%252Ficon%252FP0uqsg5aSzR5Y8gcUmnX%252FLogotranfer.png%3Falt%3Dmedia%26token%3D370be5d9-cf05-4064-bdf0-f0a710fbc9b6
+File Name: C:\Downloaded Web Sites\diamondlock.finance\cdn-cgi\image\width=40,height=40,fit=contain,dpr=1,format=auto\https4168224926-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F5XcureARhhC2fPAA3Ju7%2Ficon%2FP0uqsg5aSzR5Y8gcUmnX%2FLogotranfer.pngal.png
+Content Type: image/png
+
+Uri: https://www.gitbook.com/contact/contact-us
+File Name: C:\Downloaded Web Sites\diamondlock.finance\contact\contact-us.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/contact/request-demo
+File Name: C:\Downloaded Web Sites\diamondlock.finance\contact\request-demo.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/explore
+File Name: C:\Downloaded Web Sites\diamondlock.finance\explore.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/feature/git-sync
+File Name: C:\Downloaded Web Sites\diamondlock.finance\feature\git-sync.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/feature/visitor-authentication
+File Name: C:\Downloaded Web Sites\diamondlock.finance\feature\visitor-authentication.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/pricing
+File Name: C:\Downloaded Web Sites\diamondlock.finance\pricing.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/use-cases/open-source
+File Name: C:\Downloaded Web Sites\diamondlock.finance\use-cases\open-source.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/use-cases/product-docs
+File Name: C:\Downloaded Web Sites\diamondlock.finance\use-cases\product-docs.html
+Content Type: text/html
+
+Uri: https://www.gitbook.com/use-cases/quae-sunt-sint
+File Name: C:\Downloaded Web Sites\diamondlock.finance\use-cases\quae-sunt-sint.html
+Content Type: text/html
+
+Uri: https://www.learnrxjs.io/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\index-23.htm
+Content Type: text/html
+
+Uri: https://www.pinksale.finance/launchpad/0x7689671B8cC9470cF367a8c6EC06C7Ad65339E5f?chain=BSC
+File Name: C:\Downloaded Web Sites\diamondlock.finance\launchpad\0x7689671B8cC9470cF367a8c6EC06C7Ad65339E5f.html
+Content Type: text/html
+
+Uri: https://www.rudderstack.com/docs/
+File Name: C:\Downloaded Web Sites\diamondlock.finance\docs\index-1.htm
+Content Type: text/html
+
